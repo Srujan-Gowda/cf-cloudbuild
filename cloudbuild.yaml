@@ -7,6 +7,7 @@ steps:
       '--trigger-http',
       '--allow-unauthenticated',
       '--entry-point=hello_world',
+      '--service-account=gcp-learning@data-projects-450609.iam.gserviceaccount.com',
       '--source=.'
     ]
 options:
