@@ -1,2 +1,2 @@
 def hello_world(request):
-    return "cHANGES DONE"
+    return "CHANGES DONE"
