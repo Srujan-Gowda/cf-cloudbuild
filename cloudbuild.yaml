@@ -9,3 +9,5 @@ steps:
       '--entry-point=hello_world',
       '--source=.'
     ]
+options:
+  logging: CLOUD_LOGGING_ONLY
